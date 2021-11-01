@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/devHikary/cypress_test#readme",
   "devDependencies": {
+    "@cucumber/cucumber": "^8.0.0-rc.1",
     "cypress": "^8.7.0"
   }
 }
